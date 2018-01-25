@@ -55,6 +55,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     @Override
     public void onClick(View v) {
-        Log.i("MAIN","Hola Mundo");
+        Log.i("MAIN","Button Clicked");
     }
 }

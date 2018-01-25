@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ButtonSuccess.iml" filepath="$PROJECT_DIR$/ButtonSuccess.iml" />
+      <module fileurl="file://C:\Users\Owner\AndroidStudioProjects\ButtonSuccess\ButtonSuccess.iml" filepath="C:\Users\Owner\AndroidStudioProjects\ButtonSuccess\ButtonSuccess.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\Owner\AndroidStudioProjects\ButtonSuccess\app\app.iml" filepath="C:\Users\Owner\AndroidStudioProjects\ButtonSuccess\app\app.iml" />
     </modules>
   </component>
 </project>
